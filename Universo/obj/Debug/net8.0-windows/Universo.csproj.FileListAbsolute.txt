@@ -1,0 +1,17 @@
+C:\Users\Matheus\UniversoCsharp\Universo\bin\Debug\net8.0-windows\Universo.exe
+C:\Users\Matheus\UniversoCsharp\Universo\bin\Debug\net8.0-windows\Universo.deps.json
+C:\Users\Matheus\UniversoCsharp\Universo\bin\Debug\net8.0-windows\Universo.runtimeconfig.json
+C:\Users\Matheus\UniversoCsharp\Universo\bin\Debug\net8.0-windows\Universo.dll
+C:\Users\Matheus\UniversoCsharp\Universo\bin\Debug\net8.0-windows\Universo.pdb
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\Universo.Form1.resources
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\Universo.csproj.GenerateResource.cache
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\Universo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\Universo.AssemblyInfoInputs.cache
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\Universo.AssemblyInfo.cs
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\Universo.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\Universo.sourcelink.json
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\Universo.dll
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\refint\Universo.dll
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\Universo.pdb
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\Universo.genruntimeconfig.cache
+C:\Users\Matheus\UniversoCsharp\Universo\obj\Debug\net8.0-windows\ref\Universo.dll
